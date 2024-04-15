@@ -1,0 +1,12 @@
+<?php            
+@font-face {
+    font-family: iraniansans;
+   src: url('http://www.fontfont.ir/fonts/iraniansans/iraniansans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* use these classes */
+.iraniansans{
+  font-family: iraniansans;
+}
